@@ -87,7 +87,7 @@ ________________________
 ---
 
 #### #10
-## Speaker Notes
+## Speaker notes
 
 ![Notes](https://png.icons8.com/ios/100/eeeeee/task-filled.png)
 

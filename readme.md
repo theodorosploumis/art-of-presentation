@@ -107,6 +107,13 @@ ________________________
 
 ---
 
+#### #13
+## Learn by watching
+
+![Theater audience](https://png.icons8.com/ios/100/eeeeee/audience-filled.png)
+
+---
+
 ### Thank you!
 
 [![Hackathon 2018 logo](http://hackathon.serrestech.gr/img/logo.png)](http://hackathon.serrestech.gr)
